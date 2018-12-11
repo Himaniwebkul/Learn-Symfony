@@ -10,7 +10,7 @@ A fully-functional [UVDesk Community Edition][1] project skeleton packaged along
 
 <b> <h3>  Introduction? </h3> </b>
 
- <a href="https://www.uvdesk.com/en/opensource"> UVdesk Opensource </a> is an Saas based Enterprise Helpdesk system built on top of <a href="https://symfony.com/"> Symfony/PHP framework </a>. It assemble all your customer request at one place.
+ <a href="https://www.uvdesk.com/en/opensource"> UVdesk Opensource </a> is an Enterprise Helpdesk system built on top of <a href="https://symfony.com/"> Symfony/PHP framework </a>. It assemble all your customer request at one place.
 
 <b> <h3> Why we had done this? </h3> </b>
 
